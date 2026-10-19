@@ -1,0 +1,15 @@
+{
+  "name": "catalogo-autos-uvm",
+  "version": "1.0.0",
+  "description": "Microservicio de catalogo de automoviles para UVM",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
